@@ -20,3 +20,13 @@ An <b>Operating System (OS)</b> is a system software that helps in operating <b>
     <img src="assets/Operating_System_Overview.png" alt="Benefits of Cloud Storage" align="center" width="80%" height="100%">
 </p>
 <p align="center"><small><strong><i>Operating System Overview</i></strong></small></p>
+
+### Functions of an Operating System (OS)
+####    1.  Process Management
+####    2.  Memory Management
+####    3.  File Management
+####    4.  Device Management
+####    5.  Security
+####    6.  Monitoring and Error Detection
+####    7.  Coordination Management
+####    8.  Job Scheduling and Accounting
