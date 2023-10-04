@@ -1,4 +1,7 @@
 # Mastering Linux
+<p align="center">
+    <img src="Linux_banner.png" alt="Benefits of Cloud Storage" align="center" width="100%" height="250px">
+</p>
 ##  This is my journey to learn the Linux.
 This repository get you started from scratch and covers all the topics required to make you confidence to use <b>*Linux at the Production Level*</b>.
 
