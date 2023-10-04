@@ -30,3 +30,8 @@ An <b>Operating System (OS)</b> is a system software that helps in operating <b>
 ####    6.  Monitoring and Error Detection
 ####    7.  Coordination Management
 ####    8.  Job Scheduling and Accounting
+
+### Types of OS
+####    1.  Linux OS
+####    2.  Mac OS
+####    3.  Windows OS
