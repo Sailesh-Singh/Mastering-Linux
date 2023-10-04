@@ -15,3 +15,8 @@ By the end of this module I will be able to do the following:
 ##  Operating System and its functions
 
 An <b>Operating System (OS)</b> is a system software that helps in operating <b>hardware</b> and <b>software</b> of the computer and also manages all other application programs in a computer. It acts as an interface between computer hardware components and the user.
+
+<p align="center">
+    <img src="assets/Operating_System_Overview.png" alt="Benefits of Cloud Storage" align="center" width="80%" height="100%">
+</p>
+<p align="center"><small><strong><i>Operating System Overview</i></strong></small></p>
