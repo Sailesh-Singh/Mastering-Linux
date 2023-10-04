@@ -11,3 +11,7 @@ By the end of this module I will be able to do the following:
 +   Differentiate among the various operating systems available in the market
 +   Grasp the multiple methods for accessing and utilizing an operating system
 +   Recognize the distinctions between an operating system on a bare metal machine, containers, or a virtual machine
+
+##  Operating System and its functions
+
+An <b>Operating System (OS)</b> is a system software that helps in operating <b>hardware</b> and <b>software</b> of the computer and also manages all other application programs in a computer. It acts as an interface between computer hardware components and the user.
